@@ -1,0 +1,13 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+__pycache__/
+mapas/
+sprites/
+parametros/parametros_acciones.py
+parametros_plantas.py
+parametros_precios.py
+prueba.py
+Enunciado.pdf
+parametros_acciones.py
